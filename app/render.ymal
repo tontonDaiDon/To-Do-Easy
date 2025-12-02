@@ -1,6 +1,6 @@
 databases:
   - name: ToDoEasy
-    databaseName: dpg-d3ik3midbo4c73fqdf60-a
+    databaseName: myapp_production_6m7y
     user: myapp_user
     region: Oregon
 
